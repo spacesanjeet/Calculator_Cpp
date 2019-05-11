@@ -5,5 +5,5 @@ A simple calculator made with C++.
 <br><br></p>
 
 1. This is a very simple, pure C++ script which can do mathematics calculations.
-2. I wil update it with more flexible functions and exception handlers. 
+2. I will update it with more flexible functions and exception handlers. 
 3. Provide feedback. Its really appreciated. ^_^
