@@ -2,3 +2,5 @@
 2]. Will add try and catch for better exceptions handling.
 3]. Will possibly add more calculations.
 4]. Will try to keep it bug free. 
+
+// Done everything. 👍
