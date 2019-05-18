@@ -18,7 +18,7 @@ int main()
 {
     float num1, num2, result; // float variables
     int choice, num3, num4;  // integer variables
-    while(1 == 1)  // while loop to make sure program runs until the user chooses to quit
+    while(true)  // while loop to make sure program runs until the user chooses to quit
     {
         cout << "Calculator Menu" << "\n";  // the option menu for calculations
         cout << "1. Addition" << "\n";
