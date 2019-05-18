@@ -5,7 +5,7 @@ int main()
 {
     int choice, num3, num4; // integer variables
     float num1, num2, result, floor_result; // float variables
-    while(1 == 1)  // while loop to make sure the menu works till the user doesn't quit
+    while(true)  // while loop to make sure the menu works till the user doesn't quit
     {
         cout << "Calculator Menu" << "\n";
         cout << "1. Addition" << "\n";
